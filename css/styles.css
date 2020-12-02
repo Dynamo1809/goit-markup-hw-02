@@ -178,6 +178,15 @@ footer .logo span {
   line-height: 1.38;
 }
 
+.footer-address {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+
 .footer-contact {
   font-style: normal;
   font-weight: normal;
@@ -198,6 +207,15 @@ footer .logo span {
 
 .sorter button {
   background-color: var(--tertiary-bg-color);
+  color: var(--title-text-color);
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.63;
+  text-align: center;
+  letter-spacing: 0.03em;
+  border: 0;
 }
 
 .sorter button:hover,
